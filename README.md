@@ -16,7 +16,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash Logo" width="50" height="50"/>
