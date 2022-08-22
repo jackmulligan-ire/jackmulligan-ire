@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Node, Express and MongoDB.
 - 💬 Ask me about: SEO tips from my previous life.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sie können mit mir auch gerne auf Deutsch reden
+- ⚡ Fun fact: Sie können mit mir auch gerne auf Deutsch reden.
 
 <p float="left">
   <a href="https://www.linkedin.com/in/jack-mulligan/"><img src="https://img.shields.io/badge/jack--mulligan-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
