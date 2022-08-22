@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jack, an MSc Computer Science Student in UCD. I'm currently looking for a full-time role as a software engineer in web development. Feel free to get in touch and check out some of my projects!
+### I'm currently looking for a full-time role as a software engineer in web development. Feel free to get in touch and check out some of my projects!
 
 - 🌱 I’m currently learning: Node, Express and MongoDB.
 - 💬 Ask me about: SEO tips from my previous life.
