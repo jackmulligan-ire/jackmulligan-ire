@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Jack, an MSc Computer Science Student in UCD. I'm currently looking for a full-time role as a software engineer in web development. Feel free to get in touch and check out some of my projects!
 
-<!--
-**jackmulligan-ire/jackmulligan-ire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: Node, Express and MongoDB.
+- 💬 Ask me about: SEO tips from my previous life.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Sie können mit mir auch gerne auf Deutsch reden
 
-Here are some ideas to get you started:
+<p float="left">
+  <a href="https://www.linkedin.com/in/jack-mulligan/"><img src="https://img.shields.io/badge/jack--mulligan-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mulligja1@gmail.com"><img src="https://img.shields.io/badge/-mulligja1-c14438?style=flat&logo=Gmail&logoColor=white"/></a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmulligan-ire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
