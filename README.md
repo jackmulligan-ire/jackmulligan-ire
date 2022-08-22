@@ -10,4 +10,4 @@
   <a href="mailto:mulligja1@gmail.com"><img src="https://img.shields.io/badge/-mulligja1-c14438?style=flat&logo=Gmail&logoColor=white"/></a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmulligan-ire&exclude_repo=google-homepage,google-serp,learning-area&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmulligan-ire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
