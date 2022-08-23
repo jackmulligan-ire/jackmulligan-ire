@@ -1,10 +1,9 @@
 ### I'm currently looking for a full-time role as a software engineer in web development. Feel free to get in touch and check out some of my projects!
 
 - 🗣️ Ask me about: SEO tips from my previous life. 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Wir können uns auch gerne auf Deutsch unterhalten 🇩🇪
-- 💬 Get in touch:  <a href="https://www.linkedin.com/in/jack-mulligan/"><img src="https://img.shields.io/badge/jack--mulligan-blue?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:mulligja1@gmail.com"><img src="https://img.shields.io/badge/-mulligja1-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+- ⚡ Fun fact: I speak 🇩🇪
 - 🚀 Currently working on: MERN project! 
+- 💬 Get in touch:  <a href="https://www.linkedin.com/in/jack-mulligan/"><img src="https://img.shields.io/badge/jack--mulligan-blue?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:mulligja1@gmail.com"><img src="https://img.shields.io/badge/-mulligja1-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <hr />
 
