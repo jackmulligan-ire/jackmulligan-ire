@@ -1,4 +1,4 @@
-### I'm currently looking for a full-time role as a software engineer in web development or data engineering. Feel free to get in touch and check out some of my projects!
+### Feel free to get in touch and check out some of my projects!
 
 - 🗣️ Ask me about: SEO tips from my previous life. 
 - ⚡ Fun fact: I speak 🇩🇪
