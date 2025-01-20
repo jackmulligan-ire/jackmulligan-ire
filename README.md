@@ -1,10 +1,10 @@
 ### Feel free to get in touch and check out some of my projects!
 
-🚀 Currently working on: An AI productivity tool to reduce work calls.
+🚀 Working on: An AI productivity tool to reduce work calls.
 
-<hr />
+👨‍💻 Currently building with
+<br />
 
-👨‍💻 Working With
 <p float="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
 <img src="https://d2mkz4zdclmlek.cloudfront.net/blog/wp-content/uploads/2023/05/SNOW-35164165.png" alt="Snowflake Logo" width="50" height="50"/>
