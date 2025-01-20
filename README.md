@@ -1,6 +1,6 @@
 ### Feel free to get in touch and check out some of my projects!
 
-- 🚀 Currently working on: An AI productivity tool to reduce work calls.
+🚀 Currently working on: An AI productivity tool to reduce work calls.
 
 <hr />
 
