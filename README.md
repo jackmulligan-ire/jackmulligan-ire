@@ -1,6 +1,6 @@
 ### Feel free to get in touch and check out some of my projects!
 
-🚀 Working on: An AI productivity tool to reduce work calls.
+🚀 Working on: The [Data Engineering Zoomcamp from DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 👨‍💻 Currently building with
 <br />
