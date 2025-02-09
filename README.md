@@ -9,6 +9,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
 <img src="https://d2mkz4zdclmlek.cloudfront.net/blog/wp-content/uploads/2023/05/SNOW-35164165.png" alt="Snowflake Logo" width="50" height="50"/>
 <img src="https://cdn.prod.website-files.com/6529137f46ce104b290de310/660604def60e0debb47e628d_download.png" alt="Power BI Logo" width="50" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGOvuMEIpPS1EVokKX5TEuAaY6wWw38CSjg&s" alt="dbt Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgres Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka Logo" width="50" height="50"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow Logo" width="50" height="50"/>
