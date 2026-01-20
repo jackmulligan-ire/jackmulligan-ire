@@ -1,6 +1,6 @@
 ### Feel free to get in touch and check out some of my projects!
 
-🚀 Working on: The [Data Engineering Zoomcamp from DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+🚀 Working on: Building projects and deepening my AI understanding using [Fast.ai Part 2](https://course.fast.ai/Lessons/part2.html) and [CS229 2018](https://cs229.stanford.edu/syllabus-autumn2018.html)
 
 👨‍💻 Currently building with
 <br />
